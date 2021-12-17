@@ -13,13 +13,14 @@ a user would give to an item. They are primarily used in commercial applications
 aims to build a recommender system that will take a Wikipedia page as an input, and will recommend 10 new links based on information that will be defined in this report.
 The final report presents the main points:
 <ol>
-<li> Data analysis and characterization. <\li>
-<li> Concurrence study (similar contexts). <\li>
-<li> Proposition of our recommender system strategy with the libraries. <\li>
-<li> Chosen approaches. <\li>
-<li> Analysis of the whole solution and conclusions.<\li>
-<\ol>
-#### Required librairies
+<li> Data analysis and characterization. </li>
+<li> Concurrence study (similar contexts). </li>
+<li> Proposition of our recommender system strategy with the libraries. </li>
+<li> Chosen approaches. </li>
+<li> Analysis of the whole solution and conclusions.</li>
+</ol>
+
+### Required librairies
 
 - gensim
 - sickit-learn
